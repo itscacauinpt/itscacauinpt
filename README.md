@@ -2,6 +2,8 @@
 
 <!-- **itscacauinpt/itscacauinpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
+<!--  <img align="right"
+ height="280em"     src="https://raw.githubusercontent.com/gist/itscacauinpt/7f479588f649761bd4bbd6e471bf430b/raw/fd7d51f31d1cb750bece4b8ef0d0f0d819c33a8f/myCard.svg"/> -->
 <div align="center">
   <p>┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •『 ♡ 』• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓</p>
   <p>LOADING...</p>
@@ -9,8 +11,21 @@
   <h2>Hi, it's Cacau here! ツ</h2>
 </div>
 
-  <a href="https://github.com/itscacauinpt"></a>
-  <br/>
+<!-- <div align="center">
+<p>- 🔭 I’m currently working on ...</p>
+<p>- 🌱 I’m currently learning ...</p>
+<p>- 👯 I’m looking to collaborate on ... </p>
+<p>- 🤔 I’m looking for help with ...</p>
+<p>- 💬 Ask me about ...</p>
+<p>- 📫 How to reach me: ...</p>
+<p>- 😄 Pronouns: ...</p>
+<p>- ⚡ Fun fact: ...</p>
+</div> -->
+
+<a href="https://github.com/itscacauinpt"></a>
+
+<br/>
+
 <div align="center">
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api?username=itscacauinpt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,14 +33,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscacauinpt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br/>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!-- <div style="display: inline_block"><br>
   
@@ -38,7 +46,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div> -->
-<br/>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/anaclaudia-de-souza" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
