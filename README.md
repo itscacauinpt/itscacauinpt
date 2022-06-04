@@ -23,13 +23,16 @@
 
 <br/>
 
- **What do I know?**  ✨ <img align="center" alt="Cacau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+**Linguagens e Ferramentas...**
+
+ **...que aprendi:**  ✨ <img align="center" alt="Cacau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cacau-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Cacau-redux" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> 
   <img align="center" alt="Cacau-CSS" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
     <img align="center" alt="Cacau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cacau-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> ✨
  
- **What Am I learning?** ✨ <img align="center" alt="Cacau-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ **...que estou aprendendo:** ✨ <img align="center" alt="Cacau-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Cacau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cacau-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img align="center" alt="Cacau-mongo" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> ✨
 <!--   
@@ -38,16 +41,14 @@
 -->
 <br/>
 
-<div>
-<p>- 🔭 I’m currently working on ...</p>
-<p>- 🌱 I’m currently learning ...</p>
-<p>- 👯 I’m looking to collaborate on ... </p>
-<p>- 🤔 I’m looking for help with ...</p>
-<p>- 💬 Ask me about ...</p>
-<p>- 📫 How to reach me: ...</p>
-<p>- 😄 Pronouns: ...</p>
-<p>- ⚡ Fun fact: ...</p>
-</div>
+<!-- <p>- Olá, meu nome é Ana Claudia mas pode me chamar de Cacau</p>
+<p>- </p>
+<p>-I’m looking to collaborate on ... </p>
+<p>-I’m looking for help with ...</p>
+<p>-Ask me about ...</p>
+<p>-How to reach me: ...</p>
+<p>-Pronouns: ...</p>
+<p>-Fun fact: ...</p> -->
 
 <br/>
 
