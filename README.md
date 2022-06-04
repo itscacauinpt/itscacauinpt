@@ -63,5 +63,8 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscacauinpt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br/>
-  <br/>
+
+![snake gif](https://github.com/itscacauinpt/itscacauinpt/blob/output/github-contribution-grid-snake.gif)
+
+<br/>
 <p align="center">┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •『 ♡ 』• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</p>
