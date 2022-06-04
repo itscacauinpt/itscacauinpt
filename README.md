@@ -1,26 +1,11 @@
-<!--  ### Hi, it's Cacau here! -->
+<!-- https://devicon.dev/  -->
 
-<!-- **itscacauinpt/itscacauinpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- -->
-<!--  <img align="right"
- height="280em"     src="https://raw.githubusercontent.com/gist/itscacauinpt/7f479588f649761bd4bbd6e471bf430b/raw/fd7d51f31d1cb750bece4b8ef0d0f0d819c33a8f/myCard.svg"/> -->
 <div align="center">
   <p>┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •『 ♡ 』• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓</p>
   <p>LOADING...</p>
   <p>███████████]99%</p>
   <h2>Hi, it's Cacau here! ツ</h2>
 </div>
-
-<!-- <div align="center">
-<p>- 🔭 I’m currently working on ...</p>
-<p>- 🌱 I’m currently learning ...</p>
-<p>- 👯 I’m looking to collaborate on ... </p>
-<p>- 🤔 I’m looking for help with ...</p>
-<p>- 💬 Ask me about ...</p>
-<p>- 📫 How to reach me: ...</p>
-<p>- 😄 Pronouns: ...</p>
-<p>- ⚡ Fun fact: ...</p>
-</div> -->
 
 <a href="https://github.com/itscacauinpt"></a>
 
@@ -38,17 +23,32 @@
 
 <br/>
 
- **What do I know?**   <img align="center" alt="Cacau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ **What do I know?**  ✨ <img align="center" alt="Cacau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cacau-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Cacau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cacau-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" at="Cacau-JS" height="30" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  -->
+  <img align="center" alt="Cacau-CSS" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+    <img align="center" alt="Cacau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cacau-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> ✨
  
- **What Am I learning?**  <img align="center" alt="Cacau-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ **What Am I learning?** ✨ <img align="center" alt="Cacau-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Cacau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cacau-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
+  <img align="center" alt="Cacau-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img align="center" alt="Cacau-mongo" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> ✨
+<!--   
+<img align="center" alt="Cacau-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
+
+-->
+<br/>
+
+<div>
+<p>- 🔭 I’m currently working on ...</p>
+<p>- 🌱 I’m currently learning ...</p>
+<p>- 👯 I’m looking to collaborate on ... </p>
+<p>- 🤔 I’m looking for help with ...</p>
+<p>- 💬 Ask me about ...</p>
+<p>- 📫 How to reach me: ...</p>
+<p>- 😄 Pronouns: ...</p>
+<p>- ⚡ Fun fact: ...</p>
+</div>
+
 <br/>
 
 <div align="center">
