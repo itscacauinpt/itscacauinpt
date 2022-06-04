@@ -41,6 +41,10 @@
 -->
 <br/>
 
+<p>
+  - Você pode <a href="https://gitconnected.com/itscacauinpt/resume" target="_blank">clicar aqui</a> e dar uma olhada no meu currículo.
+</p>
+
 <!-- <p>- Olá, meu nome é Ana Claudia mas pode me chamar de Cacau</p>
 <p>- </p>
 <p>-I’m looking to collaborate on ... </p>
