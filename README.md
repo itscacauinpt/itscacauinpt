@@ -23,7 +23,7 @@
   
 <br/>
 
-<p>
+<p align="left">
   Estudante de Programação.
 <br />
   Atuamente aprendendo como hooks do React facilitam a vida.
