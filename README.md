@@ -1,9 +1,5 @@
-<!-- https://devicon.dev/  -->
-
 <div align="center">
   <p>┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •『 ♡ 』• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓</p>
-  <p>LOADING...</p>
-  <p>███████████]99%</p>
   <h2>Hi, it's Cacau here! ツ</h2>
 </div>
 
@@ -24,29 +20,15 @@
  **...que estou aprendendo:** ✨
   <img align="center" src="https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java">
   <img align="center" src="https://img.shields.io/badge/-MySql-181717?style=flat-square&logo=mysql" >✨
-<!--   
- <img align="center" alt="Cacau-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Cacau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="Cacau-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
-//
-  <img align="center" alt="Cacau-redux" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> 
-<img align="center" alt="Cacau-CSS" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
--->
+  
 <br/>
 
 <p>
-  - Você pode <a href="https://gitconnected.com/itscacauinpt/resume" target="_blank">clicar aqui</a> e dar uma olhada no meu currículo.
+  Estudante de Programação <3
+<br />
+  Atuamente aprendendo como hooks do React facilitam a vida.
+  Você pode <a href="https://gitconnected.com/itscacauinpt/resume" target="_blank">clicar aqui</a> e dar uma olhada no meu currículo.
 </p>
-
-<!-- <p>- Olá, meu nome é Ana Claudia mas pode me chamar de Cacau</p>
-<p>- </p>
-<p>-I’m looking to collaborate on ... </p>
-<p>-I’m looking for help with ...</p>
-<p>-Ask me about ...</p>
-<p>-How to reach me: ...</p>
-<p>-Pronouns: ...</p>
-<p>-Fun fact: ...</p> -->
 
 <br/>
 
