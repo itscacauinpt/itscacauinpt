@@ -1,5 +1,5 @@
 <div align="center">
-  <p>┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •『 ♡ 』• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓</p>
+  <p>•『 ♡ 』•</p>
   <h2>Hi, it's Cacau here! ツ</h2>
 </div>
 
@@ -24,21 +24,18 @@
 <br/>
 
 <p>
-  Estudante de Programação <3
+  Estudante de Programação.
 <br />
   Atuamente aprendendo como hooks do React facilitam a vida.
-  Você pode <a href="https://gitconnected.com/itscacauinpt/resume" target="_blank">clicar aqui</a> e dar uma olhada no meu currículo.
+  Você pode <a href="https://gitconnected.com/itscacauinpt/resume" target="_blank">clicar aqui</a> para ver meu currículo.
 </p>
 
 <br/>
 
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=itscacauinpt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscacauinpt&layout=compact&langs_count=7&theme=dark"/>
-  
  <div align="center">
+ <a href="https://www.linkedin.com/in/anaclaudia-de-souza" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black">
+ </a>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -49,10 +46,10 @@
 </div>
 </div>
 <div align="center">
- <a href="https://www.linkedin.com/in/anaclaudia-de-souza" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black">
- </a>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=itscacauinpt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscacauinpt&layout=compact&langs_count=7&theme=dark"/>
 <br/>
 
 ![snake svg](https://github.com/itscacauinpt/itscacauinpt/blob/output/github-contribution-grid-snake.svg)
@@ -60,4 +57,4 @@
 </div>
 
 <br/>
-<p align="center">┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •『 ♡ 』• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</p>
+<p align="center">•『 ♡ 』•</p>
