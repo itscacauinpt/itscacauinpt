@@ -5,8 +5,6 @@
 
 <a href="https://github.com/itscacauinpt"></a>
 
-<br/>
-
 <img align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
 
 <br/>
