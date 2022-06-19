@@ -9,15 +9,6 @@
 
 <img align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
 
-<br />
-
-<p align="left">
-  Estudante de Programação.
-<br />
-  Atuamente aprendendo como hooks em React facilitam a vida.
-  Você pode <a href="https://gitconnected.com/itscacauinpt/resume" target="_blank">clicar aqui</a> para ver meu currículo.
-</p>
-
 <br/>
 
  <div align="center">
@@ -33,19 +24,26 @@
 <!--   <img align="center" src="https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb"> -->
 </div>
 
+<p align="left">
+  Estudante de Programação.
+<br />
+  Atuamente aprendendo como hooks em React facilitam a vida.
+  Você pode <a href="https://gitconnected.com/itscacauinpt/resume" target="_blank">clicar aqui</a> para ver meu currículo.
+</p>
+
 <br/>
 
 <div align="center">
-  <h2>✨ Projetos ✨</h2>
-  <h3>usando...</h3>
   
-  ✨ <img align="center" src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript"> <img align="center" src="https://img.shields.io/badge/-React-181717?style=flat-square&logo=react"> <img align="center" src="https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux"> ✨
+<h3>『 Projetos 』</h3>
+  
+<p>usando... ✨ <img align="center" src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript"> <img align="center" src="https://img.shields.io/badge/-React-181717?style=flat-square&logo=react"> <img align="center" src="https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux">✨ </p>
   
 <table>
   <tr>
      <td valign="top">
-      <h3 align="left">Star Wars Planets</h3>
-      <p><a href="">Website</a>, <a href="https://github.com/itscacauinpt/starwars-planets-search">Repository</a></p>
+      <h3 align="left">Star Wars Planets Search</h3>
+      <p><a href="">Site</a>, <a href="https://github.com/itscacauinpt/starwars-planet-search">Repositório</a></p>
        <p>React - Hooks - Context</p>
       <a href=""><img width=400px src="" alt="preview" /></a>
     </td>
