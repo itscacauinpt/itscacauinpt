@@ -9,23 +9,11 @@
 
 <br/>
 
- <div align="center">
- <a href="https://www.linkedin.com/in/anaclaudia-de-souza" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black">
- </a>
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-<!--   <img align="center" src="https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb"> -->
-</div>
-
 <p align="left">
-  Estudante de Programação.
+  Estudante de Programação aprendendo como hooks em React salvam vidas.
 <br />
-  Atuamente aprendendo como hooks em React facilitam a vida.
+  Meus projetos estão disponíveis _aqui_.
+<br />
   Você pode <a href="https://gitconnected.com/itscacauinpt/resume" target="_blank">clicar aqui</a> para ver meu currículo.
 </p>
 
@@ -34,10 +22,8 @@
 <div align="center">
   
 <h3>『 Projetos 』</h3>
-  
-<p>usando... ✨ <img align="center" src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript"> <img align="center" src="https://img.shields.io/badge/-React-181717?style=flat-square&logo=react"> <img align="center" src="https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux">✨ </p>
-  
-<table>
+<p>Atualmente trabalhando em...</p>
+<!-- <table>
   <tr>
      <td valign="top">
       <h3 align="left">Star Wars Planets Search</h3>
@@ -46,30 +32,16 @@
       <a href=""><img width=400px src="" alt="preview" /></a>
     </td>
   </tr>
-</table>
+</table> -->
+  
+<a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"> </a>
+
+✨ <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"> <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"> <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"> ✨
+<!--   <img align="center" src="https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb"> -->
+  
+<img src="http://github-readme-streak-stats.herokuapp.com?user=itscacauinpt&theme=highcontrast&locale=pt-br" >
 </div>
 
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=itscacauinpt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscacauinpt&layout=compact&langs_count=7&theme=dark"/>
 <br/>
 
-</div>
-
-<br/>
 <p align="center">•『 ♡ 』•</p>
-
-<!-- **Linguagens e Ferramentas...**
-
- **...que aprendi:**  ✨ <img align="center" src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript">
-  <img align="center" src="https://img.shields.io/badge/-React-181717?style=flat-square&logo=react">
-  <img align="center" src="https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux"> ✨
- 
- **...que estou aprendendo:** ✨
-  <img align="center" src="https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java">
-  <img align="center" src="https://img.shields.io/badge/-MySql-181717?style=flat-square&logo=mysql" >✨
-![snake svg](https://github.com/itscacauinpt/itscacauinpt/blob/output/github-contribution-grid-snake.svg)
-
-   -->
