@@ -23,16 +23,16 @@
   
 <h3>『 Projetos 』</h3>
 <p>Atualmente trabalhando em...</p>
-<!-- <table>
+<table>
   <tr>
      <td valign="top">
       <h3 align="left">Star Wars Planets Search</h3>
-      <p><a href="">Site</a>, <a href="https://github.com/itscacauinpt/starwars-planet-search">Repositório</a></p>
+      <p>StarWars Planet Search <a href="https://starwars-planet-search.surge.sh/" target"_blank">Site</a>, <a href="https://github.com/itscacauinpt/starwars-planet-search">Repositório</a></p>
        <p>React - Hooks - Context</p>
       <a href=""><img width=400px src="" alt="preview" /></a>
     </td>
   </tr>
-</table> -->
+</table>
   
 <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"> </a>
 
