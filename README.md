@@ -29,7 +29,7 @@
       <h3 align="left">Star Wars Planets Search</h3>
       <p>StarWars Planet Search <a href="https://starwars-planet-search.surge.sh/" target"_blank">Site</a>, <a href="https://github.com/itscacauinpt/starwars-planet-search">Repositório</a></p>
        <p>React - Hooks - Context</p>
-      <a href=""><img width=400px src="" alt="preview" /></a>
+      <a href="https://github.com/itscacauinpt/starwars-planet-search"><img width=350px src="https://github.com/itscacauinpt/itscacauinpt/blob/media/starwars-preview.png" alt="preview" /></a>
     </td>
   </tr>
 </table>
