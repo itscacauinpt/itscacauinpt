@@ -27,7 +27,7 @@ E me achar pelo <a href="https://www.linkedin.com/in/anaclaudia-de-souza">Linked
 <div align="center">
   
 <h3>✨『 Projetos 』✨</h3>
-<p>Atualmente trabalhando em...</p>
+<p>Projetos finalizados...</p>
 <table>
   <tr>
      <td valign="top">
