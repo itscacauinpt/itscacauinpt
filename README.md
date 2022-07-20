@@ -7,11 +7,7 @@
 <img align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
 <br/>
  
-Estudante de Programação, 
-
-~~aprendendo como hooks em React salvam vidas~~
-
-nos primeiros passo de Docker e MongoDB :>
+Estudante de Programação :>
 
 Meus projetos estão disponíveis _por aqui mesmo_.
 
