@@ -7,11 +7,11 @@
 <img align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
 <br/>
  
-Estudante de Programação na Trybe :>
+Estudante de Programação na Trybe, atualmente no módulo de backend :>
 
 Meus projetos estão disponíveis _por aqui mesmo_.
 
-Estou estudando banco de dados, aprendendo como fazer minhas próprias APIs, atualmente no módulo de backend.
+Estou estudando banco de dados, aprendendo como fazer minhas próprias APIs.
 
 Você pode <a href="https://gitconnected.com/itscacauinpt/resume">clicar aqui</a> para ver meu currículo.
 
