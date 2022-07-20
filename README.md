@@ -7,9 +7,11 @@
 <img align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
 <br/>
  
-Estudante de Programação no Rio de Janeiro, RJ :>
+Estudante de Programação na Trybe :>
 
 Meus projetos estão disponíveis _por aqui mesmo_.
+
+Estou estudando banco de dados, aprendendo como faze minhas próprias API , atualmente no módulo de backend.
 
 Você pode <a href="https://gitconnected.com/itscacauinpt/resume">clicar aqui</a> para ver meu currículo.
 
@@ -17,8 +19,6 @@ E me achar pelo <a href="https://www.linkedin.com/in/anaclaudia-de-souza">Linked
 
 <br/>
 <br/>
-
-
 
 <div align="center">
   
