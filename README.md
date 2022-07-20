@@ -34,7 +34,7 @@ E me achar pelo <a href="https://www.linkedin.com/in/anaclaudia-de-souza">Linked
     </td>
     <td valign="top">
       <h3 align="left">MySql Project All For One</h3>
-      <p>All For One, <a href="https://github.com/itscacauinpt/itscacauinpt/blob/media/data-example-preview.png">Repositório</a></p>
+      <p>All For One, <a href="https://github.com/tryber/sd-020-b-mysql-all-for-one">Repositório</a></p>
        <p>MySql - Docker</p>
       <a href="https://github.com/itscacauinpt/mysql-project-all-for-one"><img width=300px src="https://github.com/itscacauinpt/itscacauinpt/blob/media/data-example-preview.png" alt="preview" /></a>
     </td>
