@@ -11,7 +11,7 @@ Estudante de Programação na Trybe :>
 
 Meus projetos estão disponíveis _por aqui mesmo_.
 
-Estou estudando banco de dados, aprendendo como faze minhas próprias API , atualmente no módulo de backend.
+Estou estudando banco de dados, aprendendo como fazer minhas próprias APIs, atualmente no módulo de backend.
 
 Você pode <a href="https://gitconnected.com/itscacauinpt/resume">clicar aqui</a> para ver meu currículo.
 
