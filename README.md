@@ -23,7 +23,6 @@ E me achar pelo <a href="https://www.linkedin.com/in/anaclaudia-de-souza">Linked
 <div align="center">
   
 <h3>✨『 Projetos 』✨</h3>
-<p>Projetos finalizados...</p>
 <table>
   <tr>
       </td>
@@ -31,12 +30,14 @@ E me achar pelo <a href="https://www.linkedin.com/in/anaclaudia-de-souza">Linked
       <h3 align="left">MySql Project One For All</h3>
       <p>One For All, <a href="https://github.com/itscacauinpt/mysql-project-one-for-all">Repositório</a></p>
        <p>MySql - Docker</p>
+       <p>Finalizado</p>
     </td>
       </td>
     <td valign="top">
       <h3 align="left">MySql Project All For One</h3>
       <p>All For One, <a href="https://github.com/itscacauinpt/mysql-project-all-for-one">Repositório</a></p>
        <p>MySql - Docker</p>
+       <p>Finalizado</p>
     </td>
     </tr>
     <tr>
@@ -44,6 +45,7 @@ E me achar pelo <a href="https://www.linkedin.com/in/anaclaudia-de-souza">Linked
       <h3 align="left">Star Wars Planets Search</h3>
       <p>StarWars Planet Search <a href="https://starwars-planet-search.surge.sh/">Site</a>, <a href="https://github.com/itscacauinpt/starwars-planet-search">Repositório</a></p>
        <p>React - Hooks - Context</p>
+       <p>Finalizado</p>
       <a href="https://github.com/itscacauinpt/starwars-planet-search"><img width=290px src="https://github.com/itscacauinpt/itscacauinpt/blob/media/starwars-preview.png" alt="preview" /></a>
   </tr>
  </table>
