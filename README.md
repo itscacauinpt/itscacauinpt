@@ -9,13 +9,11 @@
  
 Estudante de Programação na Trybe, atualmente no módulo de backend :>
 
+Estou aprendendo os fundamentos de Node.js e Express, criando APIs para construir aplicações web fullstack e backend completas usando JavaScript!
+
 Meus projetos estão disponíveis _por aqui mesmo_.
 
-Estou estudando banco de dados, aprendendo como fazer minhas próprias APIs.
-
 Você pode <a href="https://gitconnected.com/itscacauinpt/resume">clicar aqui</a> para ver meu currículo.
-
-E me achar pelo <a href="https://www.linkedin.com/in/anaclaudia-de-souza">Linkedin</a> ou pelo <a href="anaclaudia.sza@outlook.com">email</a>.
 
 <br/>
 <br/>
