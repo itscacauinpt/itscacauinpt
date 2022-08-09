@@ -9,7 +9,7 @@
  
 Estudante de Programação na Trybe, atualmente no módulo de backend :>
 
-Estou aprendendo os fundamentos de Node.js e Express, criando APIs para construir aplicações web fullstack e backend completas usando JavaScript!
+Estou aprendendo os fundamentos de Node.js e Express, rest APIs, MongDB e deployment para construir aplicações web fullstack e backend completas usando JavaScript!
 
 Meus projetos estão disponíveis _por aqui mesmo_.
 
