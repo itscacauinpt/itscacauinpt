@@ -7,9 +7,9 @@
 <img align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
 <br/>
  
-Estudante de Programação na Trybe, atualmente no módulo de backend :>
+Oi, eu sou a Cacau, estudante de Programação na Trybe, atualmente no módulo de backend :>
 
-Estou aprendendo os fundamentos de Node.js e Express, rest APIs, MongDB e deployment para construir aplicações web fullstack e backend completas usando JavaScript!
+Estou aprendendo os fundamentos de Node.js e Express, rest APIs, MongDB e deployment para construir aplicações web fullstack e backend completas usando JavaScript. E por isso tudo, eu agradeço a Cacau de 18 anos que clicou em um tutorial de JavaScript aleatório no YouTube!
 
 Meus projetos estão disponíveis _por aqui mesmo_.
 
