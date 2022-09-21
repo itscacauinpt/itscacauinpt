@@ -13,45 +13,16 @@ Estou aprendendo os fundamentos de Node.js e Express, rest APIs, MongDB e deploy
 
 Meus projetos estão disponíveis _por aqui mesmo_.
 
-Você pode <a href="./directory/curriculo-anacaudia.pdf" download="curriculo-anaclaudia" download>clicar aqui</a> para ver meu currículo.
+<!-- Você pode <a href="/curriculo-anacaudia.pdf" download="curriculo-anaclaudia" download>clicar aqui</a> para ver meu currículo. -->
 <br/>
 <br/>
 
-<div align="center">
- <!--
-<h3>✨『 Projetos 』✨</h3>
-<table>
-  <tr>
-      </td>
-    <td valign="top">
-      <h3 align="left">MySql Project One For All</h3>
-      <p>One For All, <a href="https://github.com/itscacauinpt/mysql-project-one-for-all">Repositório</a></p>
-       <p>MySql - Docker</p>
-       <p>Finalizado</p>
-    </td>
-      </td>
-    <td valign="top">
-      <h3 align="left">MySql Project All For One</h3>
-      <p>All For One, <a href="https://github.com/itscacauinpt/mysql-project-all-for-one">Repositório</a></p>
-       <p>MySql - Docker</p>
-       <p>Finalizado</p>
-    </td>
-    </tr>
-    <tr>
-     <td valign="top">
-      <h3 align="left">Star Wars Planets Search</h3>
-      <p>StarWars Planet Search <a href="https://starwars-planet-search.surge.sh/">Site</a>, <a href="https://github.com/itscacauinpt/starwars-planet-search">Repositório</a></p>
-       <p>React - Hooks - Context</p>
-       <p>Finalizado</p>
-      <a href="https://github.com/itscacauinpt/starwars-planet-search"><img width=290px src="https://github.com/itscacauinpt/itscacauinpt/blob/media/starwars-preview.png" alt="preview" /></a>
-  </tr>
- </table>
--->
+<div align
 
 <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"> </a>
 
 ✨ <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"> <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodedotjs"> <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"> <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"> <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"> <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> ✨
-<!-- <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"> -->
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
   
 <img src="http://github-readme-streak-stats.herokuapp.com?user=itscacauinpt&theme=highcontrast&locale=pt-br" >
 </div>
