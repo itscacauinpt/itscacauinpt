@@ -13,7 +13,7 @@ Estou aprendendo os fundamentos de Node.js e Express, rest APIs, MongDB e deploy
 
 Meus projetos estão disponíveis _por aqui mesmo_.
 
-Você pode <a href="/home/cacau/Downloads/curriculo-anacaudia.pdf">clicar aqui</a> para ver meu currículo.
+Você pode <a href="curriculo-anacaudia.pdf" download>clicar aqui</a> para ver meu currículo.
 
 <br/>
 <br/>
