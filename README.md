@@ -7,7 +7,8 @@
   <br/>
   <p> Meus projetos estão disponíveis <i>por aqui mesmo</i>. </p>
   <p>Você pode <a href="https://github.com/itscacauinpt/itscacauinpt/blob/media/curriculo-anaclaudia.pdf" download="curriculo-anaclaudia" download>clicar aqui</a> para ver meu currículo. </p>
-  <p>E me achar no <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin </a> também. </p>
+  <p>Mandar um email para <a href="anaclaudia.sza@outlook.com"> mim</a>. </p>
+  <p>E/ou me achar no <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin </a> também. </p>
 </div>
 <br/>
 <p align="center">♡</p>
