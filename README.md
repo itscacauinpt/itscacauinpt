@@ -10,6 +10,7 @@
   <p>E me achar no <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin </a> também. </p>
 </div>
 <br/>
+<br/>
 <p align="center">♡</p>
 <div align="center">
   ✨
