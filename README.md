@@ -10,7 +10,6 @@
   <p>E me achar no <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin </a> também. </p>
 </div>
 <br/>
-<br/>
 <p align="center">♡</p>
 <div align="center">
   ✨
@@ -26,10 +25,11 @@
   ✨
 </div>
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=itscacauinpt&theme=highcontrast&locale=pt-br" > -->
-<!-- <div align="center">
+<div align="center">
   <h4> ✨ Projetos ✨ </h4>
 <table>
-  <tr>
+  <p>tabela em construção...</p>
+<!--   <tr>
      <td align="top">
       <h4 align="left">Nome - Projeto</h4>
       <p>
@@ -39,9 +39,9 @@
       <p>Tecnologias...</p>
       <a href="#"><img width="250px" src="#./" alt="preview"/></a>
     </td>
-    <tr/>
+    <tr/> -->
   </table>
-</div> -->
+</div>
 <br/>
 <hr/>
 <p align="center">•『 ♡ 』•</p>
