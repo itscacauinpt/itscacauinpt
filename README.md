@@ -13,7 +13,7 @@
 <br/>
 <p align="center">♡</p>
 <div align="center">
-  <h4> ✨ Tecnologias ✨ </h4>
+  <h4> ✨ Principais Tecnologias ✨ </h4>
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodedotjs">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
   <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript">
