@@ -5,8 +5,8 @@
   <img width="250px" align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
   <h3>Oi 👋🏿 meu nome é Ana Claudia, e sou Desenvolvedora Fullstack.</h3>
   <br/>
-  <p> Meus projetos estão disponíveis <i>por aqui mesmo</i>. </p>
-  <p>Mandar um email para <a href="anaclaudia.sza@outlook.com"> mim</a>. </p>
+  <p>Meus projetos estão disponíveis <i>por aqui mesmo</i>. </p>
+  <p>Você pode mandar um email para <a href="anaclaudia.sza@outlook.com"> mim</a>. </p>
   <p>E/ou me achar no <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin </a> também. </p>
 </div>
 <br/>
