@@ -24,6 +24,26 @@
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
   <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss">
 </div>
+<br/>
+<p align="center">♡</p>
+<div align="center">
+    <h4> ✨ Projetos em andamento ✨ </h4>
+  <table>
+  <tr>
+    <th>
+      <h5>Sentimental Analysis</h5>
+      <hr/>
+      <h6><a href="https://github.com/itscacauinpt/sentimental-analysis#readme">READme</a></h6>
+      <h6>Reactjs - Nodejs - Typescript</h6>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/1739044881d2b7207e052fc4d1e45492afb8f6d2/cvr.svg" alt="cover feel" width="250px">
+    </td>
+  </tr>
+</table>
+</div>
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=itscacauinpt&theme=highcontrast&locale=pt-br" > -->
 <br/>
 <hr/>
