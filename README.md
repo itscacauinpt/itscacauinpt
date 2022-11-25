@@ -31,10 +31,9 @@
   <table>
   <tr>
     <th>
-      <h5>Sentimental Analysis</h5>
+      <p>Sentimental Analysis</p>
       <hr/>
-      <h6><a href="https://github.com/itscacauinpt/sentimental-analysis#readme">READme</a></h6>
-      <h6>Reactjs - Nodejs - Typescript</h6>
+      <h6><a href="https://github.com/itscacauinpt/sentimental-analysis#readme">READme</a> - Reactjs - Nodejs - Typescript</h6>
     </th>
   </tr>
   <tr>
