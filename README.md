@@ -35,12 +35,28 @@
       <hr/>
       <h6><a href="https://github.com/itscacauinpt/sentimental-analysis#readme">READme</a> - Reactjs - Nodejs - Typescript</h6>
     </th>
+<!--     <th>
+      <p>Memory Game - Sakura Cardcaptor</p>
+      <hr/>
+      <h6><a href="https://github.com/itscacauinpt/sakura-cardcaptor-memory-game#readme">READme</a> - Reactjs - Nodejs</h6>
+    </th>
+    <th>
+      <p>Decision-Maker</p>
+      <hr/>
+      <h6><a href="#">READme</a> - Python</h6>
+    </th> -->
   </tr>
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/1739044881d2b7207e052fc4d1e45492afb8f6d2/cvr.svg" alt="cover feel" width="250px">
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/1739044881d2b7207e052fc4d1e45492afb8f6d2/cvr.svg" alt="cover feel" width="220px">
     </td>
-  </tr>
+<!--     <td align="center">
+      <img src="#" alt="cover memory game" width="220px">
+    </td>
+    <td align="center">
+      <img src="#" alt="cover automate decision" width="220px">
+    </td>
+  </tr> -->
 </table>
 </div>
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=itscacauinpt&theme=highcontrast&locale=pt-br" > -->
