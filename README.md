@@ -30,6 +30,11 @@
     <h4> ✨ Projetos em andamento ✨ </h4>
   <table>
   <tr>
+     <th>
+      <p>We Hate Simple Math</p>
+      <hr/>
+      <h6><a href="https://github.com/itscacauinpt/we-hate-simple-math#readme">READme</a> - Reacjs - Nodejs - Typescript</h6>
+    </th>
     <th>
       <p>Sentimental Analysis</p>
       <hr/>
@@ -40,21 +45,16 @@
       <hr/>
       <h6><a href="https://github.com/itscacauinpt/sakura-cardcaptor-memory-game#readme">READme</a> - Reactjs - Nodejs</h6>
     </th>
-    <th>
-      <p>We Hate Simple Math</p>
-      <hr/>
-      <h6><a href="https://github.com/itscacauinpt/we-hate-simple-math#readme">READme</a> - Reacjs</h6>
-    </th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/1739044881d2b7207e052fc4d1e45492afb8f6d2/cvr.svg" alt="cover feel" width="260px">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/media/sakura-cover.png" alt="cover memory game" width="220px">
-    </td>
-    <td align="center">
       <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/media/math.cover.png" alt="math anxiety cover" width="220px">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/media/feeling-cvr.png" alt="cover feel" width="220px">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/media/sakura-cvr.png" alt="cover memory game" width="220px">
     </td>
   </tr>
 </table>
