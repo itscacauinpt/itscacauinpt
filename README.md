@@ -58,6 +58,21 @@
     </td>
   </tr>
 </table>
+<!--   <h4> ✨ Projetos Finalizados ✨ </h4>
+  <table>
+    <tr>
+      <th>
+        <p>CarShop API</p>
+        <hr/>
+        <h6><a href="https://github.com/itscacauinpt/car-shop-api#readme">READme</a> - Nodejs - Typescript - MongoDB - Docker</h6>
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://camo.githubusercontent.com/6d53e9bb0c9f8497ca3366b165a73bd344332e0a1489899735b033082664fee8/68747470733a2f2f776562696d616765732e6d6f6e676f64622e636f6d2f5f636f6d5f6173736574732f636d732f6b76326e687335347875796230783638732d44425f496c6c757374726174696f6e2e7376673f69786c69623d6a732d332e362e30266175746f3d666f726d6174253243636f6d707265737326773d343431" alt="carshop cover" width="220px">
+      </td>
+    </tr>
+  </table> -->
 </div>
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=itscacauinpt&theme=highcontrast&locale=pt-br" > -->
 <br/>
