@@ -32,16 +32,19 @@
   <tr>
      <th>
       <p>We Hate Simple Math</p>
+       <h6>Frontend</h6>
       <hr/>
       <h6><a href="https://github.com/itscacauinpt/we-hate-simple-math#readme">READme</a> - Reacjs - Nodejs - Typescript</h6>
     </th>
     <th>
       <p>Sentimental Analysis</p>
+      <h6>Frontend - AFINN-111</h6>
       <hr/>
       <h6><a href="https://github.com/itscacauinpt/sentimental-analysis#readme">READme</a> - Reactjs - Nodejs - Typescript</h6>
     </th>
     <th>
       <p>Memory Game - Sakura Cardcaptor</p>
+      <h6>FullStack</h6>
       <hr/>
       <h6><a href="https://github.com/itscacauinpt/sakura-cardcaptor-memory-game#readme">READme</a> - Reactjs - Nodejs</h6>
     </th>
