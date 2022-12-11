@@ -22,7 +22,7 @@
   <br/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
-  <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss">
+<!--   <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss"> -->
 </div>
 <br/>
 <p align="center">♡</p>
