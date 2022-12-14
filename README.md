@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript">
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
-  <img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma">
+<!--   <img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma"> -->
   <br/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
