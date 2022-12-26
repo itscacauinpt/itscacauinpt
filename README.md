@@ -3,27 +3,25 @@
   <br/>
   <a href="https://github.com/itscacauinpt"></a>
   <img width="250px" align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
-  <h3>Oi 👋🏿 meu nome é Ana Claudia, e sou Desenvolvedora Fullstack.</h3>
+  <h3>Hi 👋🏿 I'm Ana Claudia, and I'm a Full-Stack Developer.</h3>
   <br/>
-  <p>Meus projetos estão disponíveis <i>por aqui mesmo</i>. </p>
-  <p>Você pode mandar um email para <a href="anaclaudia.sza@outlook.com"> mim</a>. </p>
-  <p>E/ou me achar no <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin </a> também. </p>
+  <p>All of my projects and studies process are <i>here on github</i>.</p>
+  <p>You can <a href="anaclaudia.sza@outlook.com">email</a> me.</p>
+  <p>And you can also find me on <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin</a>. </p>
 </div>
 <br/>
 <p align="center">♡</p>
 <div align="center">
-  <h4> ✨ Principais Tecnologias ✨ </h4>
+  <h4> ✨ Main Technologies ✨ </h4>
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodedotjs">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
   <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript">
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
   <br/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
-  <img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma">
-  <img src="https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize">
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
-  <img src="https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongodb">
   <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express">
+  <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest">
   <br/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
@@ -32,7 +30,7 @@
 <br/>
 <p align="center">♡</p>
 <div align="center">
-    <h4> ✨ Projetos em andamento ✨ </h4>
+    <h4> ✨ Projects in Development ✨ </h4>
   <table>
   <tr>
      <th>
