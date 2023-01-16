@@ -6,9 +6,7 @@
   <h3>Hi 👋🏿 I'm Ana Claudia, and I'm a Full-Stack Developer.</h3>
   <br/>
   <p>All of my projects and studies process are <i>here on github</i>.</p>
-  <p>You can <a href=mailto:anaclaudia.sza@outlook.com?subject=subject-Hi!>email</a> me.</p>
-<!--   A href=mailto:foo@bar.com?subject=subject-Mail me/a> br>Mail me The subject line in this email is a href=”mailto”. br>a href=foo@bar.com>/a>Mail me/a> br>br>Mail me A href=mailto:foo@bar.com? Subject=Mail Me/a, Mail me
- -->
+  <p>You can <a target=_blank href=mailto:anaclaudia.sza@outlook.com?subject=subject-Hi!>email</a> me.</p>
   <p>And you can also find me on <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin</a>. </p>
 </div>
 <br/>
