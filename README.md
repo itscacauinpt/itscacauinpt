@@ -6,6 +6,7 @@
   <h3>Hi 👋🏿 I'm Ana Claudia, and I'm a Full-Stack Developer.</h3>
   <br/>
   <p>All of my projects and studies process are <i>here on github</i>.</p>
+  <p><del>hang on, i'm still working on my portfolio u.u</del></p>
   <p>You can <a target="_blank" href=mailto:anaclaudia.sza@outlook.com?subject=subject-Hi!>email</a> me.</p>
   <p>And you can also find me on <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin</a>. </p>
 </div>
