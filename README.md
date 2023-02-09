@@ -1,14 +1,15 @@
 <div>
-  <hr/>
-  <br/>
-  <a href="https://github.com/itscacauinpt"></a>
-  <img width="250px" align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
-  <h3>Hi 👋🏿 I'm Ana Claudia, and I'm a Full-Stack Developer.</h3>
-  <br/>
-  <p>All of my projects and studies process are <i>here on github</i>.</p>
-  <p><del>hang on, i'm still working on my portfolio u.u</del></p>
-  <p>You can <a target="_blank" href=mailto:anaclaudia.sza@outlook.com?subject=subject-Hi!>email</a> me.</p>
-  <p>And you can also find me on <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> Linkedin</a>. </p>
+  <h2>Hi there 👋🏿</h2>
+  </br>
+  <img width="260px" align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
+  <p>My name is Ana Claudia, and I'm a Fullstack Developer --and a computer science student-- from Brazil.</p>
+  
+  <p>:speech_balloon:</p>
+  
+  <p>You can reach me by email: <a target="_blank" href=mailto:anaclaudia.sza@outlook.com?subject=subject-Hi!>anaclaudia.sza@outlook.com</a>
+  <p>And also find me on Linekdin: <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> linkedin.com/in/anaclaudia-de-souza</a> </p></p>
+  <p>All of my projects and studies process are <i>here</i> on github.</p>
+  <p><del>hang on, i'm still working on my portfolio</del></p>
 </div>
 <br/>
 <p align="center">♡</p>
