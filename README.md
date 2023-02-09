@@ -24,6 +24,14 @@
   <br/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios">
+ </div>
+ <br/>
+ <div align="center">
+  <p> [And current studying]</p>
+  <img src="https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws">
+  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
 </div>
 <br/>
 <p align="center">♡</p>
@@ -64,5 +72,3 @@
 </table>
 </div>
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=itscacauinpt&theme=highcontrast&locale=pt-br" > -->
-<!-- <br/> -->
-<!-- <hr/> -->
