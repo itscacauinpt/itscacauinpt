@@ -37,8 +37,9 @@
  <br/>
  <div align="center">
   <p> [Current studying...]</p>
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
   <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
+  <img src="https://img.shields.io/badge/-Spring%20Boot%20-black?style=flat-square&logo=springboot">
 </div>
 <br/>
 <div align="center">
