@@ -7,6 +7,7 @@
   <p>:speech_balloon: And also find me on Linkedin: <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> linkedin.com/in/anaclaudia-de-souza</a>.</p>
   <p>:sparkles: All of my projects and studies are <i>here</i> on github.</p>
   <p><del>hang on, i'm still working on my portfolio</del></p>
+  <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white">
 </div>
 <br/>
 <p align="center">♡</p>
@@ -17,28 +18,35 @@
   <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript">
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
   <br/>
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vuedotjs">
+  <img src="https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios">
+  <img src="https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger">
+  <br/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql">
   <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express">
   <br />
   <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest">
   <img src="https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=pytest">
-  <img src="img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha">
-  <img src="https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=chai">
-  <br/>
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
-  <img src="https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios">
-  <br />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha">
+  <img src="https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai">
  </div>
  <br/>
  <div align="center">
-  <p> [And current studying]</p>
-  <img src="https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws">
-  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
+  <p> [Current studying...]</p>
   <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
+  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
+</div>
+<br/>
+<div align="center">
+  <p> [And interested in...]</p>
+  <img src="https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws">
+  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis">
+  <img src="https://img.shields.io/badge/-Ruby%20On%20Rails-black?style=flat-square&logo=rubyonrails">
+  <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django">
 </div>
 <br/>
 <p align="center">♡</p>
