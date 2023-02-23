@@ -69,7 +69,7 @@
     </th>
     <th>
       <p>Memory Game - Sakura Cardcaptor</p>
-      <h6>FullStack</h6>
+      <h6>Frontend</h6>
       <hr/>
       <h6><a href="https://github.com/itscacauinpt/sakura-cardcaptor-memory-game#readme">READme</a> - Reactjs - Nodejs</h6>
     </th>
