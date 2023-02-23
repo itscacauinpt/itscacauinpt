@@ -1,7 +1,7 @@
 <div>
   <h2>Hi there 👋🏿</h2>
   </br>
-  <img width="260px" align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
+  <img width="320px" align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
   <p>:leaves: My name is Ana Claudia, I'm a Fullstack Developer --and a second year computer science student-- from Brazil.</p>
   <p>:mailbox: You can reach me by email: <a target="_blank" href=mailto:anaclaudia.sza@outlook.com?subject=subject-Hi!>anaclaudia.sza@outlook.com</a>.</p>
   <p>:speech_balloon: And also find me on Linkedin: <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> linkedin.com/in/anaclaudia-de-souza</a>.</p>
