@@ -20,11 +20,18 @@
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
   <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express">
+  <br />
   <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest">
+  <img src="https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=pytest">
+  <img src="img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha">
+  <img src="https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=chai">
   <br/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
   <img src="https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios">
+  <br />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
  </div>
  <br/>
  <div align="center">
