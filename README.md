@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis">
   <img src="https://img.shields.io/badge/-Ruby%20On%20Rails-black?style=flat-square&logo=rubyonrails">
   <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django">
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs">
+  <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go">
 </div>
 <br/>
 <p align="center">♡</p>
