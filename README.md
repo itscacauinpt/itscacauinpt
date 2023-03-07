@@ -80,13 +80,46 @@
   </tr>
 </table>
   <p align="center">♡</p>
+  <h3> ✨ Deployed Projects ✨ </h3>
+<table>
+  <tr>
+     <th>
+      <p>StarWars Planet search</p>
+      <hr/>
+      <h6><a href="github.com/itscacauinpt/starwars-planet-search#readme">READme</a> - Reacjs - Nodejs</h6>
+    </th>
+    <th>
+      <p>Sakura CardCaptor - Memory Game</p>
+      <hr/>
+      <h6><a href="https://github.com/itscacauinpt/sakura-memorygame#readme">READme</a> - Reactjs - Nodejs</h6>
+    </th>
+    <th>
+      <p>Ceaser Cipher</p>
+      <hr/>
+      <h6><a href="https://github.com/itscacauinpt/caesercipher#readme">READme</a> - Vuejs - Nodejs</h6>
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/itscacauinpt/starwars-planet-search/blob/main/starwars-preview.png" alt="star wars cover" width="280px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/itscacauinpt/sakura-memorygame/blob/main-prod/assets/sakura-menu.png" alt="sakura cover" width="280px">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/media/caesercipher-cover.png" alt="caeser cipher cover" width="280px">
+    </td>
+  </tr>
+ </table>
+  <p align="center">♡</p>
   <h3> ✨ Studies ✨ </h3>
   <table>
     <tr>
       <th>
         <h5>UniAmerica - Computer Science</h5>
         <h6><a href="https://github.com/itscacauinpt/super-cuddly-computer-science">READme</a></h6>
-        <hr/>
+      </th>
+      <th>
         <h5>beTrybe - Web Development</h5>
         <h6><a href="https://github.com/itscacauinpt/super-duper-trybe">READme</a></h6>
       </th>
