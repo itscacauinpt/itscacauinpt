@@ -85,17 +85,17 @@
   <tr>
      <th>
       <p>StarWars Planet search</p>
-      <hr/>
+       <h6><a href="https://starwars-planet-search.surge.sh">access page</a></h6>
       <h6><a href="github.com/itscacauinpt/starwars-planet-search#readme">READme</a> - Reacjs - Nodejs</h6>
     </th>
     <th>
       <p>Sakura CardCaptor - Memory Game</p>
-      <hr/>
+      <h6><a href="https://sakura-memory-game.vercel.app">access page</a></h6>
       <h6><a href="https://github.com/itscacauinpt/sakura-memorygame#readme">READme</a> - Reactjs - Nodejs</h6>
     </th>
     <th>
       <p>Ceaser Cipher</p>
-      <hr/>
+      <h6><a href="caesercipher.vercel.app">access page</a></h6>
       <h6><a href="https://github.com/itscacauinpt/caesercipher#readme">READme</a> - Vuejs - Nodejs</h6>
     </th>
   </tr>
