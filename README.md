@@ -54,7 +54,7 @@
 <br/>
 <p align="center">♡</p>
 <div align="center">
-  <h3> ✨ Projects in Development ✨ </h3>
+  <h3> ✨ Projects in Progress ✨ </h3>
   <table>
   <tr>
      <th>
@@ -84,18 +84,12 @@
   <table>
     <tr>
       <th>
-        <h5>Uniamerica - Computer Science</h5>
+        <h5>UniAmerica - Computer Science</h5>
         <h6><a href="https://github.com/itscacauinpt/super-cuddly-computer-science">READme</a></h6>
-        <h6>computer science major,</h6>
-        <h6>practicing some java and c++</h6>
-      </th>
-      <th>
-        <h5>beTrybe - Web Dev</h5>
+        <hr/>
+        <h5>beTrybe - Web Development</h5>
         <h6><a href="https://github.com/itscacauinpt/super-duper-trybe">READme</a></h6>
-        <h6> technical course focused in</h6>
-        <h6>Web Development</h6>
       </th>
-    </tr>
   </table>
 </div>
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=itscacauinpt&theme=highcontrast&locale=pt-br" > -->
