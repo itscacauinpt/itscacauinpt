@@ -69,12 +69,6 @@
       <hr/>
       <h6><a href="https://github.com/itscacauinpt/sentimental-analysis#readme">READme</a> - Reactjs - Nodejs - Typescript</h6>
     </th>
-    <th>
-      <p>Memory Game - Sakura Cardcaptor</p>
-      <h6>Frontend</h6>
-      <hr/>
-      <h6><a href="https://github.com/itscacauinpt/sakura-cardcaptor-memory-game#readme">READme</a> - Reactjs - Nodejs</h6>
-    </th>
   </tr>
   <tr>
     <td align="center">
@@ -82,9 +76,6 @@
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/media/feeling-cvr.png" alt="cover feel" width="220px">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/media/sakura-cvr.png" alt="cover memory game" width="220px">
     </td>
   </tr>
 </table>
