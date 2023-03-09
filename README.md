@@ -3,8 +3,8 @@
   </br>
   <img width="320px" align="right" atl="good" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif">
   <p>:leaves: My name is Ana Claudia, I'm a Fullstack Developer --and a second year computer science student-- from Brazil.</p>
-  <p>:mailbox: You can reach me by email: <a target="_blank" href=mailto:anaclaudia.sza@outlook.com?subject=subject-Hi!>anaclaudia.sza@outlook.com</a>.</p>
-  <p>:speech_balloon: And also find me on Linkedin: <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> linkedin.com/in/anaclaudia-de-souza</a>.</p>
+  <p>:mailbox: You can reach me by email: <a target="_blank" href=mailto:anaclaudiasza@proton.me?subject=subject-Hi!>anaclaudiasza@proton.me</a></p>
+  <p>:speech_balloon: And also find me on Linkedin: <a align="center" href="https://www.linkedin.com/in/anaclaudia-de-souza"> linkedin.com/in/anaclaudia-de-souza</a></p>
   <p>:sparkles: All of my projects and studies are <i>here</i> on github.</p>
   <p><del>hang on, i'm still working on my portfolio</del></p>
   <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white">
