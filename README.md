@@ -86,7 +86,7 @@
      <th>
       <p>StarWars Planet search</p>
        <h6><a href="https://starwars-planet-search.surge.sh">access page</a></h6>
-      <h6><a href="github.com/itscacauinpt/starwars-planet-search#readme">READme</a> - Reacjs - Nodejs</h6>
+      <h6><a href="https://github.com/itscacauinpt/starwars-planet-search#readme">READme</a> - Reacjs - Nodejs</h6>
     </th>
     <th>
       <p>Sakura CardCaptor - Memory Game</p>
@@ -95,7 +95,7 @@
     </th>
     <th>
       <p>Ceaser Cipher</p>
-      <h6><a href="caesercipher.vercel.app">access page</a></h6>
+      <h6><a href="https://caesercipher.vercel.app">access page</a></h6>
       <h6><a href="https://github.com/itscacauinpt/caesercipher#readme">READme</a> - Vuejs - Nodejs</h6>
     </th>
   </tr>
