@@ -37,14 +37,15 @@
  <br/>
  <div align="center">
   <p> [Current studying...]</p>
-  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
+  <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes">
+  <img src="https://img.shields.io/badge/-OpenJDK-black?style=flat-square&logo=openJDK">
+  <img src="https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws">
   <img src="https://img.shields.io/badge/-Spring%20Boot%20-black?style=flat-square&logo=springboot">
+  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
 </div>
 <br/>
 <div align="center">
   <p> [And interested in...]</p>
-  <img src="https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws">
   <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis">
   <img src="https://img.shields.io/badge/-Ruby%20On%20Rails-black?style=flat-square&logo=rubyonrails">
   <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django">
