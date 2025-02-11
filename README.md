@@ -126,4 +126,3 @@
       </th>
   </table>
 </div>
-<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=itscacauinpt&theme=highcontrast&locale=pt-br" > -->
